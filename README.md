@@ -1,4 +1,4 @@
-# Manufac SDE Assignment
+# UUID-API
 
 ## Overview
 This FastAPI application provides two endpoints:
@@ -36,4 +36,3 @@ This FastAPI application provides two endpoints:
     docker run -p 8000:8000 uuid-assignment:latest
     ```
 
-### PS: I am more familiar with Flask and Node, So i had to take some help from google but i haven't used any AI tools.
